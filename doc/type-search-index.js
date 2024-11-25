@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki301_kutsenko_lab6","l":"Cargo"},{"p":"ki301_kutsenko_lab6","l":"Driver"},{"p":"ki301_kutsenko_lab6","l":"Passenger"},{"p":"ki301_kutsenko_lab6","l":"Wagon"}];updateSearchResults();
